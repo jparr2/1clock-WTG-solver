@@ -84,8 +84,8 @@ to define the guard, `reset` is the boolean `true` or `false` if the
 clock is reset during the transition.
 
 ## Tests 
-All class are tested with doctest. For functional tests, we use this list of 
-files.
+All class are tested with doctest. For functional tests, we use some example 
+files given in `examples` repesitory.
 
 First we have some SPTGs to test the decision on the wait.
 - `SPTG0`: contains an unique state: a Target state
