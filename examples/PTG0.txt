@@ -1,0 +1,9 @@
+PTG0
+States
+l1 Min 14
+l2 Max -4
+l3 Target 0
+Transitions
+l1 7 [0,1] true l2
+l1 0 [1,1] false l3
+l2 0 [1,1] false l1

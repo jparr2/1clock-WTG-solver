@@ -1,0 +1,13 @@
+Finite0
+States
+l1 Min 0
+l2 Max -1
+l3 Max 1
+lf1 Target 1/2
+lf2 Target 0
+Transitions
+l1 0 [0,1] false l2
+l1 0 [0,1] false lf1
+l2 0 [1,1] true l1
+l3 0 [1,1] false lf2
+l2 0 [0,1] false l3

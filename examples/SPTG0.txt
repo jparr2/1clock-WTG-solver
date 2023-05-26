@@ -1,0 +1,4 @@
+SPTG0
+States
+lf Target 0
+Transitions

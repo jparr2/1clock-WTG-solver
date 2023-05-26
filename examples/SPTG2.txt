@@ -1,0 +1,6 @@
+SPTG2
+States
+l0 Min 1
+lf Target 0 1/10
+Transitions
+l0 0 [0,1] false lf

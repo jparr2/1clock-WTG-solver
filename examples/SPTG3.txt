@@ -1,0 +1,6 @@
+SPTG3
+States
+l0 Max -1
+lf Target 0
+Transitions
+l0 0 [0,1] false lf

@@ -1,0 +1,13 @@
+SPTG10
+States
+lf Target 0
+l1 Max 4
+l2 Max 4
+l3 Min 1
+Transitions
+l1 0 [0,1] false lf
+l2 -4 [0,1] false lf
+l2 3 [0,1] false l3
+l3 0 [0,1] false l1
+l3 5 [0,1] false lf
+l3 -5 [0,1] false l2

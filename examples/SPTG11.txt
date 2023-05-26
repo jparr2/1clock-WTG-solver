@@ -1,0 +1,4 @@
+SPTG11
+States
+lf Target 0 1/2
+Transitions

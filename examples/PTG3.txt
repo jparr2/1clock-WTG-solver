@@ -1,0 +1,6 @@
+PTG3
+States
+l1 Max 1
+lf Target 0
+Transitions
+l1 0 [0,1] false lf

@@ -1,0 +1,10 @@
+Cycle0
+States
+l1 Min 0
+l2 Max 0
+lf Target 0
+Transitions
+l1 0 [0,1] false l2
+l1 0 [0,1] false lf
+l2 -1 [0,1] false l1
+l2 -10 [0,1] false lf
